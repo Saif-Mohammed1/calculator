@@ -135,6 +135,7 @@ function App() {
             textAlign: "center",
             transition: "background-color 0.2s ease-in-out",
             lineHeight: "4.190",
+            flex: 1,
             "&:hover": {
               backgroundColor: "#707070",
             },
